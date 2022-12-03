@@ -1,0 +1,17 @@
+@import "./Buenos Aires/stylesheet.css";
+
+.page-section{
+    padding:3rem 0;
+}
+
+.title{
+    font-family: "Buenos Aires"; 
+    font-weight:bold;
+}
+
+header nav{
+    width:100%;
+}
+header nav a{
+    padding:10px;
+}
